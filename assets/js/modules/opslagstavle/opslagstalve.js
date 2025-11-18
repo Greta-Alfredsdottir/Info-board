@@ -16,7 +16,7 @@ export default async function hentData() {
       }
     }
     function displayNews(data){ 
-        let container = document.getElementById("news")
+        let container = document.getElementById("opslagstavle")
         data.forEach(newNews => {
         container.innerHTML+= `<h6>${newNews.title}</h6>`
         });

@@ -105,7 +105,7 @@
   width: 100%;
 }
 
-.container-opslagstavle {
+.box--brunbox {
   width: 1.274px;
   height: 1.088px;
   top: 325px;
@@ -113,7 +113,7 @@
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 16px;
 }
-.container-opslagstavle #news {
+.box--brunbox #news {
   font-family: sans-serif;
   font-weight: 50px;
   font-size: 5px;

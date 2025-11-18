@@ -5,12 +5,12 @@
 @use 'boxes';
 @use 'skema';
 @use 'opslagstavle';
+@use 'ur';
 
 
 body {
   background: variables.$gul;
   color: variables.$sort;
-
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
 }
 

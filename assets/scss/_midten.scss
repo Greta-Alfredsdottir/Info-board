@@ -5,7 +5,7 @@
 @use 'boxes';
 @use 'ur';
 
-.midten{
+#midten{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }

@@ -11,7 +11,7 @@ export default async function hentData() {
         
       } 
       catch (error) {
-        document.getElementById("opslagstavle-container").innerHTML = "Der skete en fejl 😢";
+        document.getElementById("container-opslagstavle").innerHTML = "Der skete en fejl 😢";
         console.error(error);
       }
     }

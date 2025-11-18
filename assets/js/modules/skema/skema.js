@@ -1,6 +1,6 @@
 // Her laver vi skema
 
-import { getLocalTime } from "../../Utils/index.js"
+import { getLocalTime } from "/assets/js/utils/index.js"
 
 export default async function getSkema() {
 
